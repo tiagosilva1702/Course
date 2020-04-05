@@ -1,0 +1,7 @@
+C:\Users\Tiago\Documents\GitHub\Projetos\Course\ModificadorParametrosParams\bin\Debug\ModificadorParametrosParams.exe.config
+C:\Users\Tiago\Documents\GitHub\Projetos\Course\ModificadorParametrosParams\bin\Debug\ModificadorParametrosParams.exe
+C:\Users\Tiago\Documents\GitHub\Projetos\Course\ModificadorParametrosParams\bin\Debug\ModificadorParametrosParams.pdb
+C:\Users\Tiago\Documents\GitHub\Projetos\Course\ModificadorParametrosParams\obj\Debug\ModificadorParametrosParams.csprojAssemblyReference.cache
+C:\Users\Tiago\Documents\GitHub\Projetos\Course\ModificadorParametrosParams\obj\Debug\ModificadorParametrosParams.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\Documents\GitHub\Projetos\Course\ModificadorParametrosParams\obj\Debug\ModificadorParametrosParams.exe
+C:\Users\Tiago\Documents\GitHub\Projetos\Course\ModificadorParametrosParams\obj\Debug\ModificadorParametrosParams.pdb

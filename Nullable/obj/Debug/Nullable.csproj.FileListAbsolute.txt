@@ -1,0 +1,7 @@
+C:\Users\Tiago\Documents\GitHub\Projetos\Course\Nullable\bin\Debug\Nullable.exe.config
+C:\Users\Tiago\Documents\GitHub\Projetos\Course\Nullable\bin\Debug\Nullable.exe
+C:\Users\Tiago\Documents\GitHub\Projetos\Course\Nullable\bin\Debug\Nullable.pdb
+C:\Users\Tiago\Documents\GitHub\Projetos\Course\Nullable\obj\Debug\Nullable.csprojAssemblyReference.cache
+C:\Users\Tiago\Documents\GitHub\Projetos\Course\Nullable\obj\Debug\Nullable.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\Documents\GitHub\Projetos\Course\Nullable\obj\Debug\Nullable.exe
+C:\Users\Tiago\Documents\GitHub\Projetos\Course\Nullable\obj\Debug\Nullable.pdb

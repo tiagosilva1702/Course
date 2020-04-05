@@ -1,0 +1,6 @@
+C:\Users\Tiago\Documents\GitHub\Projetos\Course\ModificadorParametroRef\bin\Debug\ModificadorParametroRef.exe.config
+C:\Users\Tiago\Documents\GitHub\Projetos\Course\ModificadorParametroRef\bin\Debug\ModificadorParametroRef.exe
+C:\Users\Tiago\Documents\GitHub\Projetos\Course\ModificadorParametroRef\bin\Debug\ModificadorParametroRef.pdb
+C:\Users\Tiago\Documents\GitHub\Projetos\Course\ModificadorParametroRef\obj\Debug\ModificadorParametroRef.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\Documents\GitHub\Projetos\Course\ModificadorParametroRef\obj\Debug\ModificadorParametroRef.exe
+C:\Users\Tiago\Documents\GitHub\Projetos\Course\ModificadorParametroRef\obj\Debug\ModificadorParametroRef.pdb

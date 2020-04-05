@@ -1,0 +1,7 @@
+C:\Users\Tiago\Documents\GitHub\Projetos\Course\Vetor\bin\Debug\Vetor.exe.config
+C:\Users\Tiago\Documents\GitHub\Projetos\Course\Vetor\bin\Debug\Vetor.exe
+C:\Users\Tiago\Documents\GitHub\Projetos\Course\Vetor\bin\Debug\Vetor.pdb
+C:\Users\Tiago\Documents\GitHub\Projetos\Course\Vetor\obj\Debug\Vetor.csprojAssemblyReference.cache
+C:\Users\Tiago\Documents\GitHub\Projetos\Course\Vetor\obj\Debug\Vetor.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\Documents\GitHub\Projetos\Course\Vetor\obj\Debug\Vetor.exe
+C:\Users\Tiago\Documents\GitHub\Projetos\Course\Vetor\obj\Debug\Vetor.pdb
